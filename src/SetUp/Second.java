@@ -1,10 +1,10 @@
 package SetUp;
 
 public class Second {
-        public void k(){
+        public void k(int a){
 
         }
-        public void s(){
+        public void s(String b){
 
         }
     }
